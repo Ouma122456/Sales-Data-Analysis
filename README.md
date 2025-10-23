@@ -60,11 +60,10 @@ Before performing analysis:
 
 ## 🧰 Tools Used
 - **Excel** → Data cleaning and visualization  
-- **Power BI / Tableau** → Dashboard creation  
-- **Python / PySpark** → Data processing and analysis  
+- **Power BI** → Dashboard creation  
 
 ---
 
 ## 🏁 Author
-**[Oumayma Abassi]**  
+**Oumayma Abassi**
 This project was completed as part of a data analysis task involving dataset exploration, cleaning, and schema design.  
