@@ -66,5 +66,5 @@ Before performing analysis:
 ---
 
 ## 🏁 Author
-**[Your Name]**  
+**[Oumayma Abassi]**  
 This project was completed as part of a data analysis task involving dataset exploration, cleaning, and schema design.  
